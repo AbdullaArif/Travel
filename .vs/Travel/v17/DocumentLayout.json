@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|c:\\users\\user\\desktop\\travel\\travel\\entitylayer\\concrete\\subabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\subabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|c:\\users\\user\\desktop\\travel\\travel\\entitylayer\\concrete\\featureother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\featureother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|c:\\users\\user\\desktop\\travel\\travel\\entitylayer\\concrete\\featuremain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\featuremain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|c:\\users\\user\\desktop\\travel\\travel\\entitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|c:\\users\\user\\desktop\\travel\\travel\\entitylayer\\concrete\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|c:\\users\\user\\desktop\\travel\\travel\\entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F358CAF6-73E5-4902-9D15-C48A1861FFE0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubAbout.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\SubAbout.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\SubAbout.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\SubAbout.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\SubAbout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:49:06.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeatureOther.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\FeatureOther.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\FeatureOther.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\FeatureOther.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\FeatureOther.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:46:17.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeatureMain.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\FeatureMain.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\FeatureMain.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\FeatureMain.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\FeatureMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:43:33.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\About.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\About.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\About.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:36:26.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\Destination.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Destination.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\Concrete\\Destination.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Destination.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:32:37.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityLayer",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityLayer.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj",
+              "RelativeToolTip": "EntityLayer\\EntityLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T16:24:20.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
