@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Travel\\Views\\LayoutPartial\\_FooterPartial.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\LayoutPartial\\_FooterPartial.cshtml",
               "RelativeToolTip": "Travel\\Views\\LayoutPartial\\_FooterPartial.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAA1AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-06T19:48:49.447Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Travel\\Views\\Shared\\Components\\_TestimonialPartial\\Default.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAmwBsAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T19:29:13.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T19:29:13.044Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "BuisnessLayer\\Concrete\\TestimonialManager.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:26:59.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T19:26:59.664Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Travel\\ViewComponents\\Default\\_TestimonialPartial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:25:44.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T19:25:44.986Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Travel\\Views\\Default\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T14:58:27.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T14:58:27.81Z"
             }
           ]
         }
