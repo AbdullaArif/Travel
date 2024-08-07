@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\user\\desktop\\travel\\travel\\travel\\views\\layoutpartial\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\views\\layoutpartial\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\user\\desktop\\travel\\travel\\travel\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\user\\desktop\\travel\\travel\\travel\\views\\shared\\components\\_testimonialpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\views\\shared\\components\\_testimonialpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\user\\desktop\\travel\\travel\\travel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\user\\desktop\\travel\\travel\\travel\\viewcomponents\\default\\_testimonialpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\viewcomponents\\default\\_testimonialpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\user\\desktop\\travel\\travel\\travel\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\user\\desktop\\travel\\travel\\travel\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EAA9CCE-AA7C-4FBF-BCCE-2EC772F4970E}|BuisnessLayer\\BuisnessLayer.csproj|c:\\users\\user\\desktop\\travel\\travel\\buisnesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EAA9CCE-AA7C-4FBF-BCCE-2EC772F4970E}|BuisnessLayer\\BuisnessLayer.csproj|solutionrelative:buisnesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +26,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_FooterPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\LayoutPartial\\_FooterPartial.cshtml",
-              "RelativeDocumentMoniker": "Travel\\Views\\LayoutPartial\\_FooterPartial.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\LayoutPartial\\_FooterPartial.cshtml",
-              "RelativeToolTip": "Travel\\Views\\LayoutPartial\\_FooterPartial.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAAA1AAAA",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Travel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T19:48:49.447Z",
+              "WhenOpened": "2024-08-07T18:14:40.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\Shared\\Components\\_TestimonialPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Travel\\Views\\Shared\\Components\\_TestimonialPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\Shared\\Components\\_TestimonialPartial\\Default.cshtml",
-              "RelativeToolTip": "Travel\\Views\\Shared\\Components\\_TestimonialPartial\\Default.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBsAAAA8AAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\Destination\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Destination\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Views\\Destination\\Index.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Destination\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T19:29:13.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TestimonialManager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\BuisnessLayer\\Concrete\\TestimonialManager.cs",
-              "RelativeDocumentMoniker": "BuisnessLayer\\Concrete\\TestimonialManager.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\BuisnessLayer\\Concrete\\TestimonialManager.cs",
-              "RelativeToolTip": "BuisnessLayer\\Concrete\\TestimonialManager.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:26:59.664Z"
+              "WhenOpened": "2024-08-07T18:08:20.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_TestimonialPartial.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\ViewComponents\\Default\\_TestimonialPartial.cs",
-              "RelativeDocumentMoniker": "Travel\\ViewComponents\\Default\\_TestimonialPartial.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\ViewComponents\\Default\\_TestimonialPartial.cs",
-              "RelativeToolTip": "Travel\\ViewComponents\\Default\\_TestimonialPartial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "Travel\\Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "Travel\\Controllers\\DestinationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:25:44.986Z"
+              "WhenOpened": "2024-08-07T18:07:40.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
