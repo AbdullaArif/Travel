@@ -73,7 +73,6 @@ C:\Users\user\Desktop\Travel\Travel\Travel\obj\Debug\net6.0\ref\Travel.dll
 C:\Users\user\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\user\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\user\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\user\Desktop\Travel\Travel\Travel\obj\Debug\net6.0\Travel.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\user\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\MessagePack.dll
 C:\Users\user\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\MessagePack.Annotations.dll
 C:\Users\user\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
