@@ -102,9 +102,8 @@ namespace DataAccessLayer.Migrations
                     b.Property<DateTime>("CommandDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("CommandState")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<bool>("CommandState")
+                        .HasColumnType("bit");
 
                     b.Property<string>("CommandUser")
                         .IsRequired()

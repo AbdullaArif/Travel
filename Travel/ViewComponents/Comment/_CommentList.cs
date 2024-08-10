@@ -6,6 +6,7 @@ namespace Travel.ViewComponents.Comment
 {
     public class _CommentList:ViewComponent
     {
+        
         CommentManager commentManager = new CommentManager(new EfCommentDal());
         public IViewComponentResult Invoke(int id)
         {

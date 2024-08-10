@@ -12,7 +12,7 @@ namespace EntityLayer.Concrete
         public string CommandUser { get; set; }
         public DateTime CommandDate { get; set; }
         public string CommandContent { get; set; }
-        public string CommandState { get; set; }
+        public bool CommandState { get; set; }
         public int DestinationId { get; set; }
         public Destination Destination { get; set; }
     }

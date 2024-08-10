@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataAccessLayer.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20240807193718_mig_add_comment")]
-    partial class mig_add_comment
+    [Migration("20240810192654_mig_comment_changed")]
+    partial class mig_comment_changed
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -104,9 +104,8 @@ namespace DataAccessLayer.Migrations
                     b.Property<DateTime>("CommandDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("CommandState")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<bool>("CommandState")
+                        .HasColumnType("bit");
 
                     b.Property<string>("CommandUser")
                         .IsRequired()

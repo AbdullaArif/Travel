@@ -22,7 +22,6 @@ namespace EntityLayer.Concrete
         public string Detail1 { get; set; }
         public string Detail2 { get; set; }
         public string Image2 { get; set; }
-
         public List<Comment> Comments { get; set; }
     }
 }
