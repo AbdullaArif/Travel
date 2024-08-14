@@ -9,12 +9,11 @@ namespace EntityLayer.Concrete
     public class Comment
     {
         public int CommentId { get; set; }
-        public string CommandUser { get; set; }
-        public DateTime CommandDate { get; set; }
-        public string CommandContent { get; set; }
-        public bool CommandState { get; set; }
+        public string CommentUser { get; set; }
+        public DateTime CommentDate { get; set; }
+        public string CommentContent { get; set; }
+        public bool CommentState { get; set; }
         public int DestinationId { get; set; }
-        public byte? TestDB { get; set; }
         public Destination Destination { get; set; }
     }
 }
