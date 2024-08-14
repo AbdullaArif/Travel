@@ -159,7 +159,7 @@
                         </div>
                     </div>
                     <p>Salam test</p>
-                    @await Component.InvokeAsync("_CommentList",new {ViewBag.i})
+                    @await Component.InvokeAsync("_CommentList",new {id = ViewBag.i})
                     
                     @await Component.InvokeAsync("_AddComment")
 
