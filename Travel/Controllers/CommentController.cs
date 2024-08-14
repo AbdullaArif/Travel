@@ -15,12 +15,12 @@ namespace Travel.Controllers
             return PartialView();
         }
         [HttpPost]
-        public PartialViewResult AddComment(EntityLayer.Concrete.Comment comment)
+        public IActionResult AddComment(EntityLayer.Concrete.Comment comment)
         {
             comment.CommentDate = Convert.ToDateTime(DateTime.Now.ToShortDateString());
             comment.CommentState = true;
             commentManager.TAdd(comment);
-            return PartialView();
+            return RedirectToAction("Index","Destination");
         }
     }
 }
