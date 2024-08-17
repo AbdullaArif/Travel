@@ -17,12 +17,11 @@
     @foreach(var item in Model){
         <tr>
             <td>@item.DestinationId</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>@item.City</td>
+            <td>@item.Date</td>
+            <td>@item.Capacity</td>
+            <td>@item.Price</td>
+            <td><a href="#" class="btn btn-outline-info">Details</a></td>
         </tr>
     }
 </table>
