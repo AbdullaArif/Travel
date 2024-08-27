@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Travel.csproj": {}
+    "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Travel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj": {
+    "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj",
         "projectName": "BuisnessLayer",
-        "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\BuisnessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj",
+        "packagesPath": "C:\\Users\\Arif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\BuisnessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Arif\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,11 +29,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -102,25 +98,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Arif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Arif\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -135,8 +127,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -193,25 +185,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Arif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Arif\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -284,25 +272,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Travel.csproj": {
+    "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Travel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Travel.csproj",
+        "projectUniqueName": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Travel.csproj",
         "projectName": "Travel",
-        "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\Travel.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\Travel\\obj\\",
+        "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Travel.csproj",
+        "packagesPath": "C:\\Users\\Arif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Arif\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -317,14 +301,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj"
+              "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj": {
+                "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\BuisnessLayer\\BuisnessLayer.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -400,7 +384,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

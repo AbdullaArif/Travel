@@ -2479,7 +2479,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0"
         },
         "runtime": {
-          "BuisnessLayer.dll": {}
+          "BuisnessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DataAccessLayer/1.0.0": {
@@ -2489,7 +2492,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0"
         },
         "runtime": {
-          "DataAccessLayer.dll": {}
+          "DataAccessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "EntityLayer/1.0.0": {
@@ -2499,7 +2505,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0"
         },
         "runtime": {
-          "EntityLayer.dll": {}
+          "EntityLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
