@@ -1,12 +1,14 @@
 ﻿using BuisnessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Travel.Areas.Member.Controllers
 {
     [Area("Member")]
+    [AllowAnonymous]
     public class ReservationController : Controller
     {
         DestinationManager destinationManager = new DestinationManager(new EfDestinationDal());
@@ -37,6 +39,7 @@ namespace Travel.Areas.Member.Controllers
         public IActionResult NewReservation(Reservation p)
         {
             p.AppUserId = 6;
+            p.Status = "Onay bekliyor";
             reservationManager.TAdd(p);
 
             return RedirectToAction("MyCurrentReservation");
