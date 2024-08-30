@@ -23,6 +23,12 @@
         @Html.Label("Comment")
         <input type="text" asp-for="Description" class="form-control" />
     </div>
-    <button class="btn btn-outline-success">Reservation </button>
+    <button class="btn btn-sm btn-outline-dark"
+            onclick="alert('Your reservation will initially be taken as awaiting
+            approval. Don't forget to follow 
+            the current reservations menu for the
+            reservation approval process.');"> Rezervasyon Oluştur
+    </button>
+   @*  <button class="btn btn-outline-success">Reservation </button> *@
 </form>
 

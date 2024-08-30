@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FOfIj35+WkKnzk5b9/SygAdWp8s4bB99rMmdboomLcQ=",
+  "Hash": "coZlLzuZntgjDS91Zpzw5AG9i8bC3kJJ25Q2k78LiCM=",
   "Source": "Travel",
   "BasePath": "_content/Travel",
   "Mode": "Default",
@@ -471,6 +471,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\wwwroot\\image\\57b903130bf281ee47110f48e6e2a28e.jpg",
+      "SourceId": "Travel",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\wwwroot\\",
+      "BasePath": "_content/Travel",
+      "RelativePath": "image/57b903130bf281ee47110f48e6e2a28e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\57b903130bf281ee47110f48e6e2a28e.jpg"
     },
     {
       "Identity": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\wwwroot\\js\\site.js",

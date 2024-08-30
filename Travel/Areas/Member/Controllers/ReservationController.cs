@@ -38,7 +38,7 @@ namespace Travel.Areas.Member.Controllers
         [HttpPost]
         public IActionResult NewReservation(Reservation p)
         {
-            p.AppUserId = 6;
+            p.AppUserId = 1;
             p.Status = "Onay bekliyor";
             reservationManager.TAdd(p);
 
