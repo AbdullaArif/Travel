@@ -9,13 +9,18 @@ using System.Threading.Tasks;
 
 namespace BuisnessLayer.Concrete
 {
-    public class ReservationManager : IGenericService<Reservation>
+    public class ReservationManager : IReservationService
     {
         IReservationDal _reservationDal;
 
         public ReservationManager(IReservationDal reservationDal)
         {
             _reservationDal = reservationDal;
+        }
+
+        public List<Reservation> GetListApprovalReservatuon(int id)
+        {
+        return _reservationDal.GetListByFilter(x=>x.AppUserId == id);
         }
 
         public void TAdd(Reservation item)
