@@ -14,7 +14,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=LENOVO;database=TravelDB;integrated security=true;");
+            optionsBuilder.UseSqlServer("server=LENOVO;database=TravelDatabase;integrated security=true;");
         }
 
         public DbSet<About> Abouts { get; set; }
