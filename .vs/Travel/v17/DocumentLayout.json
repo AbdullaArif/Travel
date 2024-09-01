@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\areas\\member\\views\\reservation\\myoldreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\areas\\member\\views\\reservation\\myoldreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\areas\\member\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\areas\\member\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\areas\\member\\views\\reservation\\mycurrentreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\areas\\member\\views\\reservation\\mycurrentreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\areas\\member\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\areas\\member\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\areas\\member\\views\\reservation\\myapprovalreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\areas\\member\\views\\reservation\\myapprovalreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\areas\\member\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\areas\\member\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyOldReservation.cshtml",
-              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Reservation\\MyOldReservation.cshtml",
-              "RelativeDocumentMoniker": "Travel\\Areas\\Member\\Views\\Reservation\\MyOldReservation.cshtml",
-              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Reservation\\MyOldReservation.cshtml",
-              "RelativeToolTip": "Travel\\Areas\\Member\\Views\\Reservation\\MyOldReservation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Travel\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T10:08:15.853Z",
+              "WhenOpened": "2024-09-01T18:38:38.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MyCurrentReservation.cshtml",
-              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Reservation\\MyCurrentReservation.cshtml",
-              "RelativeDocumentMoniker": "Travel\\Areas\\Member\\Views\\Reservation\\MyCurrentReservation.cshtml",
-              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Reservation\\MyCurrentReservation.cshtml",
-              "RelativeToolTip": "Travel\\Areas\\Member\\Views\\Reservation\\MyCurrentReservation.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T10:07:16.313Z",
+              "Title": "profile.html",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
+              "RelativeDocumentMoniker": "Travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
+              "RelativeToolTip": "Travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAO0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-01T18:37:57.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "Travel\\Areas\\Member\\Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "Travel\\Areas\\Member\\Controllers\\ReservationController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAABQAAAAAAAAAA==",
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Travel\\Areas\\Member\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Travel\\Areas\\Member\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T10:01:20.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyApprovalReservation.cshtml",
-              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Reservation\\MyApprovalReservation.cshtml",
-              "RelativeDocumentMoniker": "Travel\\Areas\\Member\\Views\\Reservation\\MyApprovalReservation.cshtml",
-              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Reservation\\MyApprovalReservation.cshtml",
-              "RelativeToolTip": "Travel\\Areas\\Member\\Views\\Reservation\\MyApprovalReservation.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T09:32:33.661Z",
+              "WhenOpened": "2024-09-01T18:36:59.782Z",
               "EditorCaption": ""
             }
           ]
