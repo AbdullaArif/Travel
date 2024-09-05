@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\views\\shared\\components\\_profileinformationpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\views\\shared\\components\\_profileinformationpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\viewcomponents\\memberdashboard\\_profileinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\viewcomponents\\memberdashboard\\_profileinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\areas\\member\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\areas\\member\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,24 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Travel\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
               "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Travel\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAKIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T18:38:38.425Z",
+              "WhenOpened": "2024-09-05T14:34:17.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Views\\Shared\\Components\\_ProfileInformationPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Shared\\Components\\_ProfileInformationPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Views\\Shared\\Components\\_ProfileInformationPartial\\Default.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Shared\\Components\\_ProfileInformationPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T14:31:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ProfileInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\ViewComponents\\MemberDashboard\\_ProfileInformation.cs",
+              "RelativeDocumentMoniker": "Travel\\ViewComponents\\MemberDashboard\\_ProfileInformation.cs",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\ViewComponents\\MemberDashboard\\_ProfileInformation.cs",
+              "RelativeToolTip": "Travel\\ViewComponents\\MemberDashboard\\_ProfileInformation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:54:15.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "profile.html",
               "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
               "RelativeDocumentMoniker": "Travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
@@ -47,18 +81,17 @@
               "RelativeToolTip": "Travel\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
               "ViewState": "AgIAAEICAAAAAAAAAAAewAgCAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-01T18:37:57.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T18:37:57.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Travel\\Areas\\Member\\Controllers\\DashboardController.cs",
               "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Member\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Travel\\Areas\\Member\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T18:36:59.782Z",
               "EditorCaption": ""
