@@ -1,8 +1,69 @@
-﻿
+﻿@model EntityLayer.Concrete.Destination
 @{
     ViewData["Title"] = "UpdateDestination";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>UpdateDestination</h1>
+<h1>Update Destination</h1>
 
+<form method="post">
+    @Html.HiddenFor(x=>x.DestinationId)
+    <div class="form-group">
+        @Html.Label("City")
+        <input type="text" asp-for="City" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Date")
+        <input type="text" asp-for="Date" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Price")
+        <input type="text" asp-for="Price" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Image")
+        <input type="text" asp-for="Image" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Sub Image")
+        <input type="text" asp-for="Image2" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Cover Image")
+        <input type="text" asp-for="CoverImage" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Description")
+        <input type="text" asp-for="Description" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Capacity")
+        <input type="text" asp-for="Capacity" class="form-control" />
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Details 1")
+        <textarea cols="30" rows="5" class="form-control" asp-for="Detail1"> </textarea>
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.Label("Details 2")
+        <textarea cols="30" rows="5" class="form-control" asp-for="Detail2"> </textarea>
+    </div>
+    <br />
+    @*  <button class="btn btn-sm btn-outline-dark"
+    onclick="alert('Your reservation will initially be taken as awaiting
+    approval. Don't forget to follow
+    the current reservations menu for the
+    reservation approval process.');">
+    Rezervasyon Oluştur
+    </button> *@
+    <button class="btn btn-outline-primary"> Update </button>
+</form>

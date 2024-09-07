@@ -19,12 +19,12 @@ namespace BuisnessLayer.Concrete
 
         public void TAdd(Destination item)
         {
-            throw new NotImplementedException();
+           _destinationDal.Insert(item);
         }
 
         public void TDelete(Destination item)
         {
-            throw new NotImplementedException();
+            _destinationDal.Delete(item);
         }
 
         public Destination TGetById(int id)
@@ -39,7 +39,7 @@ namespace BuisnessLayer.Concrete
 
         public void TUpdate(Destination item)
         {
-            throw new NotImplementedException();
+            _destinationDal.Update(item);
         }
     }
 }

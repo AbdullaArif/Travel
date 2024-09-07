@@ -29,9 +29,9 @@ else
                 <td>@item.City </td>
                 <td>@item.Price $</td>
                 <td>@item.Capacity Person</td>
-                <td><a href="#" class="btn btn-outline-info">Go to Destination</a></td>
-                <td><a href="#" class="btn btn-outline-danger">Delete</a></td>
-                <td><a href="#" class="btn btn-outline-success">Update</a></td>
+                <td><a href="/Destination/Details/@item.DestinationId" class="btn btn-outline-info">Go to Destination</a></td>
+                <td><a href="/Admin/Destination/DeleteDestination/@item.DestinationId" class="btn btn-outline-danger">Delete</a></td>
+                <td><a href="/Admin/Destination/UpdateDestination/@item.DestinationId" class="btn btn-outline-success">Update</a></td>
             </tr>
         }
     </table>
