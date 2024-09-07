@@ -1,0 +1,39 @@
+﻿@using EntityLayer.Concrete
+@model List<Destination>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Destination </h1>
+@if (!Model.Any())
+{
+    <span>Geçmiş rezervasyon bulunmamaktadır.</span>
+}
+else
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>No</th>
+            <th>City</th>
+            <th>Price</th>
+            <th>Capacity</th>
+            <th>Go Destination</th>
+            <th>Delete</th>
+            <th>Update</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DestinationId</td>
+                <td>@item.City </td>
+                <td>@item.Price $</td>
+                <td>@item.Capacity Person</td>
+                <td><a href="#" class="btn btn-outline-info">Go to Destination</a></td>
+                <td><a href="#" class="btn btn-outline-danger">Delete</a></td>
+                <td><a href="#" class="btn btn-outline-success">Update</a></td>
+            </tr>
+        }
+    </table>
+    <a href="/Admin/Destination/AddDestination" class="btn btn-outline-primary">Create Destination</a>
+}
