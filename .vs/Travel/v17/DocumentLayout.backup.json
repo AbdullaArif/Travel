@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\views\\shared\\components\\_dashboardbanner\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\views\\shared\\components\\_dashboardbanner\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\views\\shared\\components\\_card1statistic\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\views\\shared\\components\\_card1statistic\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\viewcomponents\\admindashboard\\_card1statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\viewcomponents\\admindashboard\\_card1statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|solutionrelative:travel\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E7377E-7B9C-487B-A53B-22BE432A88F6}|Travel\\Travel.csproj|c:\\users\\arif\\desktop\\travel\\travel\\travel\\viewcomponents\\admindashboard\\_dashboardbanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,31 +36,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Views\\Shared\\Components\\_DashboardBanner\\Default.cshtml",
-              "RelativeDocumentMoniker": "Travel\\Views\\Shared\\Components\\_DashboardBanner\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Views\\Shared\\Components\\_DashboardBanner\\Default.cshtml",
-              "RelativeToolTip": "Travel\\Views\\Shared\\Components\\_DashboardBanner\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Views\\Shared\\Components\\_Card1Statistic\\Default.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Shared\\Components\\_Card1Statistic\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Views\\Shared\\Components\\_Card1Statistic\\Default.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Shared\\Components\\_Card1Statistic\\Default.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T18:49:54.099Z",
+              "WhenOpened": "2024-09-12T19:00:47.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Card1Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\ViewComponents\\AdminDashboard\\_Card1Statistic.cs",
+              "RelativeDocumentMoniker": "Travel\\ViewComponents\\AdminDashboard\\_Card1Statistic.cs",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\ViewComponents\\AdminDashboard\\_Card1Statistic.cs",
+              "RelativeToolTip": "Travel\\ViewComponents\\AdminDashboard\\_Card1Statistic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:59:12.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Travel\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T18:50:21.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_DashboardBanner.cs",
               "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\ViewComponents\\AdminDashboard\\_DashboardBanner.cs",
               "RelativeDocumentMoniker": "Travel\\ViewComponents\\AdminDashboard\\_DashboardBanner.cs",
               "ToolTip": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\ViewComponents\\AdminDashboard\\_DashboardBanner.cs",
               "RelativeToolTip": "Travel\\ViewComponents\\AdminDashboard\\_DashboardBanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T18:45:48.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PartialSideBar.cshtml",
               "DocumentMoniker": "C:\\Users\\Arif\\Desktop\\Travel\\Travel\\Travel\\Views\\Admin\\PartialSideBar.cshtml",
               "RelativeDocumentMoniker": "Travel\\Views\\Admin\\PartialSideBar.cshtml",
@@ -60,8 +94,7 @@
               "RelativeToolTip": "Travel\\Views\\Admin\\PartialSideBar.cshtml",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAAHMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T20:16:18.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T20:16:18.675Z"
             }
           ]
         }
