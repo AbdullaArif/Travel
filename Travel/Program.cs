@@ -21,7 +21,9 @@ namespace Travel
 			builder.Services.AddDbContext<Context>();
             builder.Services.AddScoped<ICommentService,CommentManager>();
             builder.Services.AddScoped<ICommentDal,EfCommentDal>();
-			builder.Services.AddIdentity<AppUser, AppRole>()
+            builder.Services.AddScoped<IDestinationService, DestinationManager>();
+            builder.Services.AddScoped<IDestinationDal, EfDestinationDal>();
+            builder.Services.AddIdentity<AppUser, AppRole>()
 	.AddEntityFrameworkStores<Context>();
 
 			builder.Services.AddMvc(config =>
