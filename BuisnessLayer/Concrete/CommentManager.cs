@@ -24,12 +24,12 @@ namespace BuisnessLayer.Concrete
 
         public void TDelete(Comment item)
         {
-            throw new NotImplementedException();
+           _commentDal.Delete(item);
         }
 
         public Comment TGetById(int id)
         {
-            throw new NotImplementedException();
+           return _commentDal.GetById(id);
         }
 
         public List<Comment> TGetList()
