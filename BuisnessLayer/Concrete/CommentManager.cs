@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace BuisnessLayer.Concrete
 {
+
     public class CommentManager : ICommentService
     {
         ICommentDal _commentDal;
@@ -33,7 +34,7 @@ namespace BuisnessLayer.Concrete
 
         public List<Comment> TGetList()
         {
-            throw new NotImplementedException();
+           return _commentDal.GetList();
         }
 
         public List<Comment> TGetDestinationById(int id) 
@@ -42,6 +43,11 @@ namespace BuisnessLayer.Concrete
         public void TUpdate(Comment item)
         {
             throw new NotImplementedException();
+        }
+
+        public List<Comment> TGetListCommentWithDestination()
+        {
+            return _commentDal.GetListCommentWithDestination();
         }
     }
 }
