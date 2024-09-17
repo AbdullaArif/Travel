@@ -15,11 +15,20 @@ namespace Travel.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation("Index calling");
             return View();
         }
 
         public IActionResult Privacy()
         {
+            _logger.LogInformation("Privacy page calling");
+
+            return View();
+        }
+        public IActionResult Test()
+        {
+            _logger.LogInformation("Test page calling");
+
             return View();
         }
 

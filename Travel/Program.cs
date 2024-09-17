@@ -16,9 +16,33 @@ namespace Travel
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // Dosya loglamay? burada ekliyoruz
+            var path = Directory.GetCurrentDirectory();
+            var logFilePath = Path.Combine(path, "Logs", "log.txt");
+
+            // Dosya loglamay? burada yap?land?r?yoruz
+            var loggerFactory = LoggerFactory.Create(loggingBuilder =>
+            {
+                loggingBuilder.ClearProviders();
+                loggingBuilder.AddFile(logFilePath); // Log dosyas? burada belirtiliyor
+                loggingBuilder.SetMinimumLevel(LogLevel.Debug);
+                loggingBuilder.AddDebug();
+            });
+
+            builder.Services.AddSingleton<ILoggerFactory>(loggerFactory);
+
             // Add services to the container.
             builder.Services.ContainerDependencies();
- 
+
+            builder.Services.AddLogging(x =>
+            {
+                x.ClearProviders();
+                x.SetMinimumLevel(LogLevel.Debug);
+                x.AddDebug();
+            });
+
+
+           
 
 			builder.Services.AddMvc(config =>
 			{
@@ -40,6 +64,8 @@ namespace Travel
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404/","?code={0}");
 
             app.UseRouting();
 			app.UseAuthentication();

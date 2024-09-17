@@ -1,0 +1,55 @@
+﻿@using EntityLayer.Concrete
+@model List<Guide>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int counter = 0;
+}
+<style>
+    img{
+        border-radius:50%;
+    }
+</style>
+<h1>Guide List</h1>
+
+@if (!Model.Any())
+{
+    <span>Geçmiş rezervasyon bulunmamaktadır.</span>
+}
+else
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>No</th>
+            <th>Imagex</th>
+            <th>Name, Surname</th>
+            <th>Description</th>
+            <th>Status</th>
+            <th>Edit</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            counter = counter + 1;
+            <tr>
+                <td>@counter</td>
+                <td><img src="@Url.Content(item.Image)" height="50" width="50"/> </td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                @{
+                    if (item.Status == true)
+                    {
+                        <td><a href="#" class="btn btn-outline-warning">Render passive</a></td>
+                    }
+                    else
+                    {
+                        <td><a href="#" class="btn btn-outline-info">Activate</a></td>
+
+                    }
+                }
+
+                <td><a href="#" class="btn btn-outline-success">Edit</a></td>
+            </tr>
+        }
+    </table>
+    <a href="/Admin/Guide/AddGuide/" class="btn btn-outline-primary">Create new guide</a>
+}
