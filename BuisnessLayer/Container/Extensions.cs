@@ -31,7 +31,11 @@ namespace BuisnessLayer.Container
             services.AddScoped<IAppUserService, AppUserManager>();
             services.AddScoped<IAppUserDal, EfAppUserDal>();
 
-               services.AddIdentity<AppUser, AppRole>()
+            services.AddScoped<IReservationService, ReservationManager>();
+            services.AddScoped<IReservationDal, EfReservationDal>();
+
+
+            services.AddIdentity<AppUser, AppRole>()
       .AddEntityFrameworkStores<Context>();
 
 
