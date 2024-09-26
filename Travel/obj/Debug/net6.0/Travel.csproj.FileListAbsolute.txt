@@ -517,3 +517,10 @@ C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\Serilog.Formatting.C
 C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\Serilog.Sinks.Async.dll
 C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\Serilog.Sinks.File.dll
 C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\Irony.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\XLParser.dll

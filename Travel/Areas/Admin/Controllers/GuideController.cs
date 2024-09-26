@@ -1,6 +1,7 @@
 ﻿using BuisnessLayer.Abstract;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
+using BuisnessLayer.ValidationRules;
 
 namespace Travel.Areas.Admin.Controllers
 {
@@ -28,8 +29,22 @@ namespace Travel.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult AddGuide(Guide guide)
         {
-            _guideService.TAdd(guide);
+            GuideValidator validationRules = new GuideValidator();
+           var result =  validationRules.Validate(guide);
+            if (result.IsValid)
+            {
+_guideService.TAdd(guide);
             return RedirectToAction("Index");
+            }
+            else
+            {
+                foreach(var item in result.Errors)
+                {
+                    ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
+                }
+                return View();
+            }
+            
         }
 
         [HttpGet]
