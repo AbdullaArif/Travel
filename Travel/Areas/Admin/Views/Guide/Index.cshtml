@@ -38,11 +38,11 @@ else
                 @{
                     if (item.Status == true)
                     {
-                        <td><a href="#" class="btn btn-outline-warning">Render passive</a></td>
+                        <td><a href="/Admin/Guide/ChangeToFalse/@item.GuideId" class="btn btn-outline-warning">Render passive</a></td>
                     }
                     else
                     {
-                        <td><a href="#" class="btn btn-outline-info">Activate</a></td>
+                        <td><a href="Admin/Guide/ChangeToTrue/@item.GuideId" class="btn btn-outline-info">Activate</a></td>
 
                     }
                 }

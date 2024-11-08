@@ -6,6 +6,7 @@ using BuisnessLayer.ValidationRules;
 namespace Travel.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    //[Route("Admin/Guide")]
     public class GuideController : Controller
     {
 
@@ -30,21 +31,21 @@ namespace Travel.Areas.Admin.Controllers
         public IActionResult AddGuide(Guide guide)
         {
             GuideValidator validationRules = new GuideValidator();
-           var result =  validationRules.Validate(guide);
+            var result = validationRules.Validate(guide);
             if (result.IsValid)
             {
-_guideService.TAdd(guide);
-            return RedirectToAction("Index");
+                _guideService.TAdd(guide);
+                return RedirectToAction("Index");
             }
             else
             {
-                foreach(var item in result.Errors)
+                foreach (var item in result.Errors)
                 {
                     ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
                 }
                 return View();
             }
-            
+
         }
 
         [HttpGet]
@@ -63,14 +64,14 @@ _guideService.TAdd(guide);
 
         public IActionResult ChangeToTrue(int id)
         {
-            
-            return RedirectToAction("Index");
+            _guideService.TChangeToTrueByGuide(id);
+            return RedirectToAction("Index","Guide", new {area ="Admin"});
         }
 
         public IActionResult ChangeToFalse(int id)
         {
-
-            return RedirectToAction("Index");
+            _guideService.TChangeToFalseByGuide(id);
+            return RedirectToAction("Index", "Guide", new { area = "Admin" });
         }
     }
 }
