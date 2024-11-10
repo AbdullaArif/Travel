@@ -524,3 +524,7 @@ C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\Irony.dll
 C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\SixLabors.Fonts.dll
 C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\System.IO.Packaging.dll
 C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\XLParser.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\MailKit.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Arif\Desktop\Travel\Travel\Travel\bin\Debug\net6.0\System.Formats.Asn1.dll
